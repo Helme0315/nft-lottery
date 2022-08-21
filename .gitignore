@@ -1,0 +1,11 @@
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+tests/keys
+Cargo.lock
+yarn.lock
+package-lock.json
+tests/keys/*.json
+tests/keys/whitelist/*.json
